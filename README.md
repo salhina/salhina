@@ -15,8 +15,8 @@ I'm a Senior Electronics Engineer with expertise in **Embedded Systems**, **Auto
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/matlab-%23F1C40F.svg?style=for-the-badge&logo=matlab&logoColor=black) ![Embedded C](https://img.shields.io/badge/embedded%20C-%23D47A7A.svg?style=for-the-badge&logo=c&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-%2300525E.svg?style=for-the-badge&logo=espressif&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Salhina&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Salhina&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Salhina&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Salhina&theme=merko&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salhina&theme=merko&hide_border=true&layout=compact)
 
 <!--
