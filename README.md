@@ -26,9 +26,10 @@ I'm a Senior Electronics Engineer with expertise in **Embedded Systems**, **Auto
 
 [![](https://visitcount.itsvg.in/api?id=Salhina&icon=0&color=3)](https://visitcount.itsvg.in)
 
-
-***## 💰 Support My Work
-***[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nafin01)
+<!--
+## 💰 Support My Work
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nafin01)
+-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nabil-salhi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iNabilComp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@salhi_nabil)
