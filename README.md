@@ -19,9 +19,10 @@ I'm a Senior Electronics Engineer with expertise in **Embedded Systems**, **Auto
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Salhina&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salhina&theme=merko&hide_border=true&layout=compact)
 
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
+-->
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Salhina&icon=0&color=3)](https://visitcount.itsvg.in)
